@@ -1,0 +1,35 @@
+📌 Casos de Uso
+Caso de Uso 1: Calcular IMC
+✅ Actor: Usuario
+✅ Descripción: El usuario proporciona su peso y altura, y el chatbot calcula su IMC.
+✅ Flujo Principal:
+El usuario inicia la conversación con el chatbot.
+El chatbot solicita el peso y la altura del usuario.
+El usuario ingresa los datos.
+El chatbot calcula el IMC y muestra el resultado con su clasificación.
+Fin del caso de uso.
+✅ Excepciones:
+Si el usuario ingresa datos incorrectos, el chatbot debe solicitar la corrección antes de continuar.
+
+Caso de Uso 2: Calcular Calorías de Mantenimiento
+✅ Actor: Usuario
+✅ Descripción: El usuario proporciona su peso, altura, edad, sexo y nivel de actividad, y el chatbot calcula sus calorías de mantenimiento.
+✅ Flujo Principal:
+El usuario inicia la conversación con el chatbot.
+El chatbot solicita los datos necesarios.
+El usuario ingresa los datos.
+El chatbot calcula las calorías de mantenimiento y muestra el resultado.
+Fin del caso de uso.
+✅ Excepciones:
+Si el usuario ingresa datos inválidos, el chatbot debe solicitar una corrección antes de continuar.
+
+Caso de Uso 3: Recibir Recomendaciones de Salud
+✅ Actor: Usuario
+✅ Descripción: El chatbot proporciona recomendaciones basadas en el IMC del usuario.
+✅ Flujo Principal:
+El usuario solicita recomendaciones.
+El chatbot revisa el IMC calculado previamente.
+El chatbot sugiere cambios en la dieta y actividad física si es necesario.
+Fin del caso de uso.
+✅ Excepciones:
+Si el usuario no ha calculado su IMC previamente, el chatbot debe solicitarlo antes de dar recomendaciones.
