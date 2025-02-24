@@ -1,0 +1,15 @@
+📌 Priorización de Requisitos Funcionales (RF)
+      Requisito	------------------------------ Prioridad (MoSCoW)	-- Justificación
+RF1 - Cálculo del IMC	                      ✅Must Have	             Es la función principal del chatbot y sin ella no tendría sentido el producto.
+RF2 - Cálculo de Calorías de Mantenimiento	✅Must Have	             Es una de las funciones clave para brindar valor al usuario.
+RF3 - Recomendaciones basadas en el IMC	    ✅Should Have	           Agrega valor al producto, pero el chatbot puede funcionar sin esta funcionalidad en la primera versión.
+RF4 - Corrección de datos mal ingresados	  ✅Should Have	           Mejora la experiencia del usuario y evita frustraciones.
+RF5 - Respuesta en lenguaje natural	        ✅Could Have	           Haría la interacción más amigable, pero el chatbot puede funcionar inicialmente con comandos predefinidos.
+RF6 - Recordar datos de sesión	            ✅Could Have	           No es esencial en la primera versión, pero mejoraría la experiencia del usuario.
+
+
+📌 Priorización de Requisitos No Funcionales (RNF)
+Requisito	------------------------------------   Prioridad (MoSCoW)	--- Justificación
+RNF1 - Accesibilidad en cualquier dispositivo	✅Must Have	              Es clave para la usabilidad y para que el chatbot llegue a más usuarios.
+RNF2 - Lenguaje claro y comprensible	        ✅Must Have	              La facilidad de uso es fundamental para que los usuarios entiendan los resultados.
+RNF3 - Uso sin necesidad de registro	        ✅Should Have	            Aumenta la accesibilidad, pero el chatbot podría funcionar con una opción de registro opcional en el futuro.
