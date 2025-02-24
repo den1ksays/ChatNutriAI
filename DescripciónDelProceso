@@ -1,0 +1,50 @@
+1. Metodología Utilizada
+Para el desarrollo de este prototipo, se empleó una adaptación de la metodología ágil SCRUM, debido a su flexibilidad y enfoque en la entrega iterativa de funcionalidades. 
+✅ Feedback continuo para mejorar la experiencia del usuario.
+✅ Adaptabilidad a cambios en los requisitos.
+
+2. Organización del Equipo y Roles
+*El equipo esta conformado por una sola persona*
+El equipo de desarrollo está compuesto por los siguientes roles:
+Desarrollador: Responsable de la implementación del chatbot y la lógica del cálculo.
+Diseñador UX/UI: Define la estructura de interacción del chatbot.
+Documentador: Encargado de registrar los requisitos, procesos y documentación técnica en GitHub.
+
+3. Fases del Desarrollo
+El desarrollo se dividió en sprints cortos (iteraciones), con la siguiente estructura:
+
+Sprint 1: Definición del Proyecto y Requisitos
+📌 Tareas:
+✔️ Identificación de los objetivos del chatbot.
+✔️ Definición de requisitos funcionales (RF) y no funcionales (RNF).
+✔️ Creación de historias de usuario.
+✔️ Priorización de funcionalidades clave.
+
+📌 Resultado:
+✅ Documento con requisitos bien definidos y priorizados.
+
+Sprint 2: Diseño y Prototipo Inicial
+📌 Tareas:
+✔️ Diseño de la estructura de conversación del chatbot.
+✔️ Creación de diagramas UML (Casos de Uso).
+✔️ Prototipo del chatbot en una plataforma de desarrollo de UI y UX
+
+📌 Resultado:
+✅ Primer prototipo no funcional en entorno grafico.
+
+Sprint 3: Implementación y Pruebas
+📌 Tareas:
+✔️ Desarrollo de las funciones de cálculo de IMC y calorías de mantenimiento.
+✔️ Implementación de respuestas en lenguaje natural.
+
+📌 Resultado:
+✅ Chatbot capaz de calcular IMC y calorías, con respuestas coherentes.(Sin ser funcional)
+
+Sprint 4: Documentación y Ajustes Finales
+📌 Tareas:
+✔️ Documentación en GitHub (README, casos de uso, requisitos).
+✔️ Corrección de errores y mejoras en la interacción.
+✔️ Preparación de la presentación del avance.
+
+📌 Resultado:
+✅ Proyecto documentado y listo para presentación.
