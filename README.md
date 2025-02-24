@@ -1,4 +1,4 @@
-# ChatNutriAI
+# NutriAI
 
 <h1 align="center">Chatbot para calcular el IMC y las calorias de mantenimiento </h1>
 <h2 align="center">NutriAI</h2>
