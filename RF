@@ -1,0 +1,45 @@
+----------Requisitos Funcionales (RF)
+RF1 - El chatbot debe calcular el Índice de Masa Corporal (IMC) del usuario
+✅ Descripción:
+El chatbot debe permitir que el usuario ingrese su peso y altura para calcular su IMC y proporcionarle una clasificación del resultado.
+✅ Criterios de Aceptación:
+El chatbot debe solicitar el peso en kilogramos y la estatura en metros.
+Debe calcular el IMC con la fórmula: IMC = pes(kg)/altura(m)^2
+Debe mostrar la categoría del IMC: bajo peso, normal, sobrepeso u obesidad.
+
+RF2 - El chatbot debe calcular las calorías de mantenimiento del usuario
+✅ Descripción:
+El chatbot debe calcular la cantidad de calorías diarias necesarias para que el usuario mantenga su peso actual, basándose en su peso, altura, edad, sexo y nivel de actividad física.
+✅ Criterios de Aceptación:
+El chatbot debe solicitar el peso, altura, edad y nivel de actividad.
+Debe utilizar la ecuación de Harris-Benedict para calcular el gasto calórico basal.
+Debe ajustar las calorías en función del nivel de actividad física del usuario.
+
+RF3 - El chatbot debe proporcionar recomendaciones basadas en el resultado del IMC
+✅ Descripción:
+El chatbot debe interpretar el IMC del usuario y ofrecer sugerencias para mejorar o mantener su estado de salud.
+✅ Criterios de Aceptación:
+Si el IMC es bajo, debe sugerir aumentar la ingesta calórica.
+Si el IMC es alto, debe sugerir cambios en la alimentación y actividad física.
+Debe proporcionar enlaces a recursos confiables sobre salud y nutrición.
+
+RF4 - El chatbot debe permitir corregir datos mal ingresados
+✅ Descripción:
+Si el usuario ingresa un dato erróneo, el chatbot debe permitir corregirlo sin reiniciar la conversación.
+✅ Criterios de Aceptación:
+Debe preguntar si el usuario desea corregir un dato antes de continuar.
+Debe permitir modificar solo el dato incorrecto sin afectar los demás.
+
+RF5 - El chatbot debe responder en lenguaje natural
+✅ Descripción:
+El chatbot debe interpretar preguntas y respuestas en lenguaje natural para facilitar la interacción con el usuario.
+✅ Criterios de Aceptación:
+Debe reconocer preguntas como "¿Cuántas calorías necesito al día?"
+Debe manejar variaciones en la forma en que el usuario responde.
+
+RF6 - El chatbot debe recordar datos ingresados en la sesión actual
+✅ Descripción:
+Si el usuario abandona la conversación y regresa, el chatbot debe recordar los últimos datos ingresados en la sesión actual.
+✅ Criterios de Aceptación:
+Debe almacenar temporalmente los datos ingresados en la sesión.
+Debe permitir continuar desde donde se quedó la conversación.
