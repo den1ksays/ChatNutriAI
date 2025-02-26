@@ -1,10 +1,10 @@
 ------Historias de Usiario
 
 📝 Historia de Usuario1:
-Como usuario, quiero ingresar mi peso y altura en el chatbot para que pueda calcular mi IMC y decirme en qué categoría me encuentro.
+Como nutriologo, quiero ingresar mi peso y altura en el chatbot para que pueda calcular mi IMC y decirme en qué categoría me encuentro.
 
 📝 Historia de Usuario2:
-Como usuario, quiero proporcionar mis datos físicos y nivel de actividad al chatbot para que me diga cuántas calorías debo consumir para mantener mi peso actual.
+Como atleta, quiero proporcionar mis datos físicos y nivel de actividad al chatbot para que me diga cuántas calorías debo consumir para mantener mi peso actual.
 
 📝 Historia de Usuario3:
 Como usuario, quiero poder corregir cualquier dato que haya ingresado incorrectamente sin tener que empezar de nuevo la conversación.
