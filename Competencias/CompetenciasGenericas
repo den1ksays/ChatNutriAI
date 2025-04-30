@@ -1,0 +1,41 @@
+-----Competencias Genéricas en el Desarrollo del Chatbot
+
+1️⃣ Comunicación oral y escrita
+📌 Cómo se promueve:
+La redacción de la documentación del proyecto (README.md, manual de usuario, bitácoras) requiere transmitirinformación 
+técnica de manera clara y estructurada.
+La elaboración de historias de usuario y requisitos obliga a describir funcionalidades de forma precisa y comprensible.
+La presentación del avance del proyecto fomenta la capacidad de comunicación oral al explicar el propósito,
+alcance y metodología aplicada.
+
+2️⃣ Análisis y síntesis de Información
+📌 Cómo se promueve:
+Se realizó una investigación sobre fórmulas y métodos de cálculo del IMC y gasto calórico.
+Se sintetizó la información relevante en un conjunto de requisitos funcionales y no funcionales bien definidos.
+Se resumieron los datos clave en diagramas de casos de uso y documentación estructurada.
+
+3️⃣ Planteamiento y resolución de problemas
+📌 Cómo se promueve:
+Se identificaron posibles problemas que podrían enfrentar los usuarios, como errores en la entrada de datos.
+Se diseñaron mecanismos de corrección para mejorar la experiencia del usuario.
+Se implementaron casos de prueba para validar que el chatbot responda correctamente ante diferentes escenarios.
+
+4️⃣ Modelación de soluciones
+📌 Cómo se promueve:
+Se utilizaron diagramas de casos de uso para representar la funcionalidad del chatbot.
+
+5️⃣ Aprendizaje autónomo
+📌 Cómo se promueve:
+Se investigaron y aplicaron nuevos conocimientos sobre el desarrollo de chatbots y procesamiento de lenguaje natural.
+Se exploraron librerías y herramientas para el uso de VSC en GitHub
+Se adquirieron habilidades en uso de GitHub para documentación y control de versiones.
+
+6️⃣ Trabajo en equipo
+📌 No se promueve al ser una actividad individual
+
+7️⃣ Toma de decisiones
+📌 Cómo se promueve:
+Se eligió la ecuación de Harris-Benedict como la mejor opción para el cálculo de calorías tras analizar diferentes métodos.
+Se decidió utilizar un chatbot en lugar de una aplicación móvil o web para ofrecer una solución más accesible y fácil de usar.
+Se definieron criterios de aceptación para asegurar que las funcionalidades cumplan con los requerimientos esperados.
+

@@ -1,0 +1,19 @@
+---------Requisitos No Funcionales (RNF)
+RNF1 - El chatbot debe ser accesible desde cualquier dispositivo
+✅ Categoría: Usabilidad
+✅ Criterios de Verificación:
+*El chatbot debe funcionar correctamente en navegadores de escritorio y móviles.
+*La interfaz debe ser responsiva y adaptarse a distintos tamaños de pantalla.
+
+RNF2 - El chatbot debe utilizar un lenguaje claro y comprensible
+✅ Categoría: Usabilidad
+✅ Criterios de Verificación:
+*No debe incluir términos técnicos sin explicación.
+*Las respuestas deben ser cortas, directas y fáciles de entender.
+
+RNF3 - El chatbot debe operar sin necesidad de registro
+✅ Categoría: Experiencia de Usuario
+✅ Criterios de Verificación:
+*No debe solicitar que el usuario cree una cuenta para acceder a sus funciones.
+*No debe requerir información personal innecesaria como correo o teléfono.
+

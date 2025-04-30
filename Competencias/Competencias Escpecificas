@@ -1,0 +1,56 @@
+1️⃣ Realiza ingeniería de requisitos de software
+📌 Cómo se promueve:
+Se identificaron usuarios primarios y secundarios del chatbot.
+Se recopilaron necesidades a partir de la problemática de salud y accesibilidad a herramientas de cálculo nutricional.
+Se definieron requisitos funcionales (RF) y no funcionales (RNF) basados en técnicas de obtención y análisis de requerimientos.
+Se verificaron y validaron los requisitos mediante criterios de aceptación y pruebas.
+
+2️⃣ Diseña Software
+📌 Cómo se promueve:
+Se elaboraron diagramas de casos de uso para modelar la interacción con el usuario.
+
+3️⃣ Construye Software
+📌 Cómo se promueve:
+No se promueve
+
+4️⃣ Realiza pruebas de software
+📌 Cómo se promueve:
+Se diseñaron casos de prueba para validar el cálculo correcto del IMC y calorías de mantenimiento.
+
+5️⃣ Realiza mantenimiento de software
+📌 Cómo se promueve:.
+Se documentaron las modificaciones en GitHub para rastrear cambios y facilitar futuras mejoras.
+
+6️⃣ Administra proyectos de software
+📌 Cómo se promueve:
+Se utilizó una metodología ágil para organizar y asignar tareas del proyecto.
+Se emplearon herramientas como GitHub para el seguimiento del desarrollo.
+
+7️⃣ Estima parámetros del proyecto de software
+📌 Cómo se promueve:
+Se estimó el esfuerzo y tiempo necesario para cada fase del desarrollo.
+Se definió un cronograma de actividades con fechas de entrega de cada funcionalidad.
+Se evaluaron posibles riesgos y su impacto en el tiempo y calidad del producto.
+
+8️⃣ Asegura la Calidad del Software
+📌 Cómo se promueve:
+Se establecieron criterios de aceptación para validar la funcionalidad del chatbot.
+
+9️⃣ Establece mecanismos de seguridad
+📌 Cómo se promueve:
+No se promueve
+
+🔟 Emplea ciclos de vida
+📌 Cómo se promueve:
+Se documentaron las iteraciones del proyecto con avances en cada ciclo de desarrollo.
+Se priorizó la entrega de funcionalidades clave en etapas tempranas para validación temprana.
+
+1️⃣1️⃣ Verifica calidad de soluciones de software
+📌 Cómo se promueve:
+No se promueve
+
+1️⃣2️⃣ Usa herramientas para creación de software
+📌 Cómo se promueve:
+
+Se utilizó Git en VSC como lenguaje de desarrollo principal.
+Se gestionó el proyecto en GitHub, utilizando repositorios, control de versiones y documentación en Markdown.
