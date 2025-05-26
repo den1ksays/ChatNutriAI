@@ -1,1 +1,3 @@
+COPY LINK:
+
 https://www.figma.com/design/DWiZ4y41kmypWylMecYioc/ChatFlow-%E2%80%93-A-Live-Chat-Component--Community-?node-id=0-1&t=3NIzdHmOqixiWAg4-1
